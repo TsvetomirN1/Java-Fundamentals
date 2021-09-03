@@ -1,0 +1,28 @@
+html{
+font-family: 'Dancing Script', cursive;
+}
+
+li{
+border: 3px solid yellow;
+}
+section div{
+display: inline-block;
+font-size: 60px;
+border:3px solid yellow;
+padding:20px;
+margin:20px;
+font-weight:bold;
+font-style:italic;
+}
+.red {
+background:red
+}
+.green{
+background:green;
+}
+.blue{
+background:blue;
+}
+.gray{
+background:gray
+}
